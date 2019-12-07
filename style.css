@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+    padding: 35px;
+}
+
+article.table {
+    background-color: rgba(248, 244, 244, 0.397);
+    padding: 80px;
+    margin: 0px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+ }
