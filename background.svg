@@ -31,7 +31,7 @@
   </defs>
   <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
     <rect class="cls-6" width="1920" height="1080"/>
-    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="258.5" cy="258.5" r="258.5" transform="translate(297 571)"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="408" cy="283.5" rx="408" ry="283.5" transform="translate(0 698)"/>
     <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="426.5" cy="426.5" r="426.5" transform="translate(1186 430)"/>
     <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-4" cx="392" cy="392" r="392" transform="translate(-210 614)"/>
     <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-5" cx="389.5" cy="389.5" r="389.5" transform="translate(501 691)"/>
